@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Julian.Codespoti/Projects/CreditTask/CreditTask/CreditTask.csproj",
+      "projectUniqueName": "/Users/Julian.Codespoti/Desktop/Uni/SoftwareDeployment/Assignment3/credit-task/CreditTask/CreditTask.csproj",
       "projectName": "CreditTask",
-      "projectPath": "/Users/Julian.Codespoti/Projects/CreditTask/CreditTask/CreditTask.csproj",
+      "projectPath": "/Users/Julian.Codespoti/Desktop/Uni/SoftwareDeployment/Assignment3/credit-task/CreditTask/CreditTask.csproj",
       "packagesPath": "/Users/Julian.Codespoti/.nuget/packages/",
-      "outputPath": "/Users/Julian.Codespoti/Projects/CreditTask/CreditTask/obj/",
+      "outputPath": "/Users/Julian.Codespoti/Desktop/Uni/SoftwareDeployment/Assignment3/credit-task/CreditTask/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Julian.Codespoti/.nuget/NuGet/NuGet.Config"
@@ -479,7 +479,6 @@
       ],
       "sources": {
         "/usr/local/share/dotnet/library-packs": {},
-        "/usr/local/share/dotnet/sdk/7.0.302/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -492,6 +491,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -518,6 +522,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -526,7 +544,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
       }
     }
   }

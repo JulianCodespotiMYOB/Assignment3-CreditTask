@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WcbPxIZ982JFjCdtaAl864vxX/7mXwKPkL5eGRiUgeZxw4ZQRrzBMgfgEYt7TfG9M8wUBMz4ajDh2DmpSPBvTg==",
+  "dgSpecHash": "i7iQNAOYYfI=",
   "success": true,
-  "projectFilePath": "/Users/Julian.Codespoti/Projects/CreditTask/CreditTask/CreditTask.csproj",
+  "projectFilePath": "/Users/Julian.Codespoti/Desktop/Uni/SoftwareDeployment/Assignment3/credit-task/CreditTask/CreditTask.csproj",
   "expectedPackageFiles": [
     "/Users/Julian.Codespoti/.nuget/packages/microsoft.aspnetcore.openapi/7.0.5/microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "/Users/Julian.Codespoti/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
@@ -10,7 +10,10 @@
     "/Users/Julian.Codespoti/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "/Users/Julian.Codespoti/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "/Users/Julian.Codespoti/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "/Users/Julian.Codespoti/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+    "/Users/Julian.Codespoti/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/Users/Julian.Codespoti/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/Julian.Codespoti/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/Julian.Codespoti/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.20/microsoft.netcore.app.host.osx-arm64.7.0.20.nupkg.sha512"
   ],
   "logs": []
 }
